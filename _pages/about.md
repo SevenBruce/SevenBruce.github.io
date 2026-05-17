@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 ##  🐳🐳🐳 **Yuwen Chen 陈渝文**
-(Member, IEEE) is an associate professor with the School of Computer Science, Beijing University of Technology, Beijing, China. I received my Ph.D. degree in [Universidad Politécnica de Madrid](https://www.upm.es/) in 2019. My supervisor is [José Fernán Martínez](https://www.etsist.upm.es/uploaded/docs_personales/martinez_ortega_jose_fernan/index.html). My research focus on IoT security and privacy, collaborative learning, model inversion, and gradient inversion.<br> <br/>
+is an associate professor with the School of Computer Science, Beijing University of Technology, Beijing, China. I received my Ph.D. degree in [Universidad Politécnica de Madrid](https://www.upm.es/) in 2019. My supervisor is [José Fernán Martínez](https://www.etsist.upm.es/uploaded/docs_personales/martinez_ortega_jose_fernan/index.html). My research focus on IoT security and privacy, collaborative learning, model inversion, and gradient inversion.<br> <br/>
 Personl Pages: [DMS Lab](http://www.dmslab.net/index.php/people/yuwen-chen/) [学校官方网站](https://yanzhao.bjut.edu.cn/info/1485/12214.htm)<br/>
 Affiliation: College of Computer Science, Beijing University of Technology <br/>
 Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124<br/> 
