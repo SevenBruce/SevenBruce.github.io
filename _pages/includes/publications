@@ -6,4 +6,43 @@
 
 <a href="https://duckduckgo.com/?q=Event-Based+Motion+Deblurring+Using+Task-Oriented+3D+Gaussian+Event+Representations+site%3Aopenaccess.thecvf.com" target="_blank">
 <img src="https://img.shields.io/badge/CVPR-2026-red?style=flat-square"></a>	
-S. Xue, H. Ma, H. Chen, Z. Yang, **<u>Yongjian Deng📧</u>**, &quot;**Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations**&quot;. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. DOI: 
+S. Xue, H. Ma, H. Chen, Z. Yang, **<u>Yongjian Deng📧</u>**, &quot;**Event-Based Motion Deblurring Using Task-Oriented 3D Gaussian Event Representations**&quot;. 
+In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. DOI: 
+
+(^ supservised/co-supservised students，#corresponding author) <br/>
+*    **Privacy-preserving federated learning based on noise addition** <br/>
+X Wu^, Y Chen#, H Yu, Z Yang <br/>
+Expert Systems with Applications, 2024 <br/>
+*    **Batch data recovery from gradients based on generative adversarial networksy** <br/>
+Yunbo Huang^, Yuwen Chen#, JF Martínez-Ortega, Haiyang Yu, Zhen Yang<br/>
+Neural Computing and Applications, 1-12<br/>
+*    **Model optimization techniques in personalized federated learning: A survey** <br/>
+Fahad Sabah^, Yuwen Chen, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar <br/>
+Expert Systems with Applications, 2023 <br/>
+*    **A resilient group-based multi-subset data aggregation scheme for smart grid** <br/>
+Yuwen Chen, Shisong Yang^, José-Fernán Martínez, Lourdes López, Zhen Yang <br/>
+IEEE Internet of Things Journal,2023<br/>
+*    **A Post-quantum Secure Aggregation for Federated Learning** <br/>
+Shisong Yang^, Yuwen Chen, Shanshan Tu, Zhen Yang# <br/>
+ICCNS '22: Proceedings of the 2022 12th International Conference on Communication and Network Security<br/>
+*    **Fast Secure Aggregation with High Dropout Resilience for Federated Learning** <br/>
+Shisong Yang^, Yuwen Chen, Zhen Yang#, Bowen Li, Huan Liu <br/>
+IEEE Transactions on Green Communications and Networking,2023<br/>
+*    **AAIA: an efficient aggregation scheme against inverting attack for federated learning** <br/>
+Zhen Yang, Shisong Yang^, Yunbo Huang, José-Fernán Martínez, Lourdes López, Yuwen Chen# <br/>
+International Journal of Information Security,2023<br/>
+*    **Physical unclonable function based lightweight and verifiable data stream transmission for industrial iot** <br/>
+Xiaohu Shan, Haiyang Yu#, Yuwen Chen, Zhen Yang<br/>
+IEEE Transactions on Industrial Informatics,2023<br/>
+*    **A dynamic membership group-based multiple-data aggregation scheme for smart grid** <br/>
+Yuwen Chen, José-Fernán Martínez, Lourdes López, Haiyang Yu, Zhen Yang#<br/>
+IEEE Internet of Things Journal,2021<br/>
+*    **An elliptic curve-based scalable data aggregation scheme for smart grid** <br/>
+Yuwen Chen#, José-Fernán Martínez-Ortega, Pedro Castillejo, Lourdes López<br/>
+IEEE Systems Journal,2021<br/>
+*    **A homomorphic-based multiple data aggregation scheme for smart grid** <br/>
+Yuwen Chen#, José-Fernán Martínez-Ortega, Pedro Castillejo, Lourdes López<br/>
+IEEE Sensors Journal,2019<br/>
+*    **A privacy protection user authentication and key agreement scheme tailored for the Internet of Things environment: PriAuth** <br/>
+Yuwen Chen#, José-Fernán Martínez, Pedro Castillejo, Lourdes López<br/>
+Wireless Communications and Mobile Computing,2017<br/>
