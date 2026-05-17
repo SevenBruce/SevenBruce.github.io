@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuwen Chen (陈渝文)"
-description              : "It’s not about being the first; it’s about flowing forever.流水不争先，争的是滔滔不绝。"
+title                    : "Yuwen Chen <br> 陈渝文"
+description              : "It’s not about being the first; it’s about flowing.<br>流水不争先，争的是滔滔不绝。"
 repository               : "SevenBruce/SevenBruce.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pKmtkGkAAAAJ&hl=en"
+  email            : "yuwen.chen@bjut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "http://orcid.org/0000-0001-6414-9697"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
