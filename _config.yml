@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuwen Chen 陈渝文" 
-  avatar           : "images/chen.png"
+  avatar           : "/images/chen.png"
   bio              : "Beijing University of Technology"
   location         : "Beijing, China"
   employer         :
