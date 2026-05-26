@@ -30,7 +30,7 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 # 📣 Openings 招生
 - *Ongoing*: &nbsp;🎓 **Prospective students are welcome.** I am looking for motivated Master students and undergraduate students interested in IoT security, AI security, federated learning, privacy protection, model inversion, and gradient inversion. I usually have around 2 Master openings each year. Please feel free to contact me by email with your CV and transcript.
 - *长期有效*: &nbsp;🎓 **欢迎加入课题组。** 欢迎对物联网安全、人工智能安全、联邦学习、隐私保护、模型反演和梯度反演感兴趣的硕士研究生、本科生联系我。每年通常有约 2 个硕士招生名额，欢迎通过邮件联系，并附简历和成绩单。
-- 📧 **Email**: [yuwen.chen@bjut.edu.cn](mailto:yuwen.chen@bjut.edu.cn) &nbsp;&nbsp; 📧 [yuwen.chen@upm.es](mailto:yuwen.chen@upm.es)
+- **Email: ** 📧 [yuwen.chen@bjut.edu.cn](mailto:yuwen.chen@bjut.edu.cn) &nbsp;&nbsp; 📧 [yuwen.chen@upm.es](mailto:yuwen.chen@upm.es)
 
 
 # 📚 Teaching
