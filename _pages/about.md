@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-##  🌊 **Yuwen Chen 陈渝文**
+##  🌊 Yuwen Chen 陈渝文
 I am an associate professor at the School of Cyberspace Security, Beijing University of Technology, Beijing, China. I received my Ph.D. degree from [Universidad Politécnica de Madrid](https://www.upm.es/) in 2019, under the supervision of [José Fernán Martínez](https://www.etsist.upm.es/uploaded/docs_personales/martinez_ortega_jose_fernan/index.html). My research interests include IoT security and privacy, AI security, federated learning, model inversion, and gradient inversion, with recent work also covering data provenance, semantic fingerprinting, and image privacy protection. I have led research projects funded by the National Natural Science Foundation of China for Young Scholars and the Beijing Municipal Education Commission Science and Technology Program, among others.<br> <br/>
 Personal Pages: [DMS Lab](http://www.dmslab.net/index.php/people/yuwen-chen/) [学校官方网站](https://yanzhao.bjut.edu.cn/info/1485/12214.htm)<br/>
 Affiliation: School of Cyberspace Security, Beijing University of Technology <br/>
@@ -27,7 +27,7 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 
 <span class='anchor' id='openings'></span>
 
-# 📣 Openings **招生**
+# 📣 Openings 招生
 - *Ongoing*: &nbsp;🎓 **Prospective students are welcome.** I am looking for motivated Master students and undergraduate students interested in IoT security, AI security, federated learning, privacy protection, model inversion, and gradient inversion. I usually have around 2 Master openings each year. Please feel free to contact me by email with your CV and transcript.
 - *长期有效*: &nbsp;🎓 **欢迎加入课题组。** 欢迎对物联网安全、人工智能安全、联邦学习、隐私保护、模型反演和梯度反演感兴趣的硕士研究生、本科生联系我。每年通常有约 2 个硕士招生名额，欢迎通过邮件联系，并附简历和成绩单。
 
