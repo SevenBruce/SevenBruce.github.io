@@ -159,6 +159,16 @@
   }
 }
 
+.author__quote {
+  margin-bottom: 1em;
+  white-space: normal;
+
+  span {
+    display: block;
+    margin-bottom: 0.35em;
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;

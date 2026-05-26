@@ -1,6 +1,6 @@
 <span class='anchor' id='publications'></span>
 
-# Publications
+# 📝 Publications
 
 <div class="publication-year">2026</div>
 

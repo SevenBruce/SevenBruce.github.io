@@ -19,8 +19,15 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
+      {% if site.description_en or site.description_zh %}
+        <li>
+          <div class="author__quote">
+            {% if site.description_zh %}<span>{{ site.description_zh }}</span>{% endif %}
+            {% if site.description_en %}<span>{{ site.description_en }}</span>{% endif %}
+          </div>
+        </li>
+      {% elsif site.description %}
+        <li><div class="author__quote">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
