@@ -111,6 +111,49 @@
     font-size: $type-size-6;
   }
 
+  .publication-year {
+    margin: 1.4em 0 0.75em;
+    padding-left: 1em;
+    border-left: 4px solid #b85c38;
+    color: $dark-gray;
+    font-family: $sans-serif;
+    font-size: 1.1em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+  }
+
+  .publication-list {
+    margin-bottom: 1em;
+  }
+
+  .publication-item {
+    margin: 0 0 0.85em;
+    line-height: 1.55;
+  }
+
+  .pub-venue,
+  .pub-year-badge {
+    display: inline-block;
+    margin-right: 0.25em;
+    padding: 0.1em 0.45em;
+    color: #fff;
+    font-family: $sans-serif;
+    font-size: 0.78em;
+    font-weight: bold;
+    line-height: 1.35;
+    vertical-align: 0.08em;
+  }
+
+  .pub-venue {
+    background: #5b5e63;
+  }
+
+  .pub-year-badge {
+    margin-right: 0.45em;
+    background: $info-color;
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
