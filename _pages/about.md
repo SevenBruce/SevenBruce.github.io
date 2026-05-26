@@ -26,8 +26,15 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 
 
 # 🔥🔥🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.05*: &nbsp;🎓 **Prospective students are welcome.** I am looking for motivated Master students and undergraduate students interested in IoT security, AI security, federated learning, privacy protection, model inversion, and gradient inversion. I usually have around 2 Master openings each year. Please feel free to contact me by email with your CV and transcript.
+- *2026.05*: &nbsp;🎓 **欢迎加入课题组。** 欢迎对物联网安全、人工智能安全、联邦学习、隐私保护、模型反演和梯度反演感兴趣的硕士研究生、本科生联系我。每年通常有约 2 个硕士招生名额，欢迎通过邮件联系，并附简历和成绩单。
+
+
+# 📚 Teaching
+
+- **Intelligent Information Process**: English-taught undergraduate course, Beijing-Dublin International College, Beijing University of Technology.
+- **Security of Artificial Intelligence**: bilingual graduate course for Master and Ph.D. students.
+- **神经网络与深度学习安全**: undergraduate course.
 
 {% include publications.md %}
 
@@ -38,4 +45,4 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 - **Conference service:** Program Committee Member for ACM MM 2026, AAAI 2026, and The Web Conference 2026; reviewer for ACM MM and WWW.
 - **Professional memberships:** Member of CCF and IEEE; member of the Artificial Intelligence Security Governance Professional Committee, Chinese Association of Automation; member of the Cyberspace Security and Governance Professional Committee, Systems Engineering Society of China.
 
-<p class="site-stats">Visitors: <span id="busuanzi_value_site_uv">-</span> &nbsp; Views: <span id="busuanzi_value_site_pv">-</span></p>
+<p class="site-stats"><span class="site-stats__icon">🌐</span><span>Visitors <strong id="busuanzi_value_site_uv">-</strong></span><span>Views <strong id="busuanzi_value_site_pv">-</strong></span></p>

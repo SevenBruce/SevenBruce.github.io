@@ -130,9 +130,26 @@
   }
 
   .site-stats {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.45em 0.85em;
+    align-items: center;
     margin-top: 1.5em;
+    padding: 0.45em 0.75em;
+    border: 1px solid $border-color;
+    border-radius: 999px;
+    background: #fafafa;
     color: $gray;
     font-size: 0.9em;
+
+    strong {
+      color: $dark-gray;
+    }
+  }
+
+  .site-stats__icon {
+    color: $info-color;
+    font-size: 1.05em;
   }
 
   .publication-list {
