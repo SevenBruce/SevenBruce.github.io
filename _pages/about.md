@@ -19,7 +19,7 @@ redirect_from:
 
 ##  🌊 **Yuwen Chen 陈渝文**
 I am an associate professor at the School of Cyberspace Security, Beijing University of Technology, Beijing, China. I received my Ph.D. degree from [Universidad Politécnica de Madrid](https://www.upm.es/) in 2019, under the supervision of [José Fernán Martínez](https://www.etsist.upm.es/uploaded/docs_personales/martinez_ortega_jose_fernan/index.html). My research interests include IoT security and privacy, AI security, federated learning, model inversion, and gradient inversion, with recent work also covering data provenance, semantic fingerprinting, and image privacy protection. I have led research projects funded by the National Natural Science Foundation of China for Young Scholars and the Beijing Municipal Education Commission Science and Technology Program, among others.<br> <br/>
-Personl Pages: [DMS Lab](http://www.dmslab.net/index.php/people/yuwen-chen/) [学校官方网站](https://yanzhao.bjut.edu.cn/info/1485/12214.htm)<br/>
+Personal Pages: [DMS Lab](http://www.dmslab.net/index.php/people/yuwen-chen/) [学校官方网站](https://yanzhao.bjut.edu.cn/info/1485/12214.htm)<br/>
 Affiliation: School of Cyberspace Security, Beijing University of Technology <br/>
 Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Beijing, China, 100124<br/> 
 陈渝文，副教授，北京工业大学网络空间安全学院。2019 年博士毕业于马德里理工大学，导师为 José Fernán Martínez。主要研究方向包括物联网安全与隐私保护、人工智能安全、联邦学习、模型反演与梯度反演，近期工作也涵盖数据追踪溯源、语义指纹和图像隐私保护等方向。主持国家自然科学基金青年项目、北京市教委科技计划面上项目等科研项目。
