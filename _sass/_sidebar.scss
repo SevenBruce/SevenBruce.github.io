@@ -94,6 +94,8 @@
   img {
     max-width: 175px;
     min-width: 75px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -121,6 +123,7 @@
 
 .author__name {
   margin: 0;
+  line-height: 1.15;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -134,6 +137,17 @@
   }
   font-family: $sans-serif;
   font-size: $type-size-4;
+}
+
+.author__name-en,
+.author__name-zh {
+  display: block;
+}
+
+.author__name-zh {
+  margin-top: 0.15em;
+  font-size: 0.75em;
+  font-weight: normal;
 }
 
 .author__bio {
