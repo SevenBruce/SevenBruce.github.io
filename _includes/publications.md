@@ -11,7 +11,7 @@
 
   <p class="publication-item"><span class="pub-venue">IEEE TMC</span><span class="pub-year-badge">2026</span> Haoyu Liu^, <strong>Yuwen Chen*</strong>, Zhen Yang, "<strong>Adaptive Generative Model Inversion Attacks in Edge-Cloud Collaborative Inference Systems</strong>". In <em>IEEE Transactions on Mobile Computing</em>, accepted.</p>
 
-  <p class="publication-item"><span class="pub-venue">ASOC</span><span class="pub-year-badge">2026</span> Chenxu Fan^, <strong>Yuwen Chen*</strong>, Qin Jiang, Ziwen Tang, Haiyang Yu, Zhen Yang, "<strong>Triple-verifiable aggregation with parameter encoding for privacy-enhanced cross-device federated learning</strong>". In <em>Applied Soft Computing</em>, 197:115194.</p>
+  <p class="publication-item"><span class="pub-venue">ASOC</span><span class="pub-year-badge">2026</span> Chenxu Fan^, <strong>Yuwen Chen*</strong>, Qin Jiang, Ziwen Tang^, Haiyang Yu, Zhen Yang, "<strong>Triple-verifiable aggregation with parameter encoding for privacy-enhanced cross-device federated learning</strong>". In <em>Applied Soft Computing</em>, 197:115194.</p>
 
   <p class="publication-item"><span class="pub-venue">JISA</span><span class="pub-year-badge">2026</span> Fahad Sabah^, <strong>Yuwen Chen</strong>, Zhen Yang, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar, "<strong>MFTA-PFL: Multi-factor trust assessment-based personalized federated learning</strong>". In <em>Journal of Information Security and Applications</em>, 98:104388.</p>
 
