@@ -29,7 +29,7 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-{% include_relative includes/publications.md %}
+{% include publications.md %}
 
 
 # 🎖 Services
