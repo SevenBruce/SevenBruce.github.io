@@ -30,3 +30,10 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 {% include publications.md %}
+
+
+# 🎖 Services
+
+- **Editorial & journal review service:** Associate Editor / Reviewer for *Internet of Things*; reviewer for *IEEE Transactions on Information Forensics and Security (TIFS)* and *IEEE Transactions on Knowledge and Data Engineering (TKDE)*.
+- **Conference service:** Program Committee Member for ACM MM 2026, AAAI 2026, and The Web Conference 2026; reviewer for ACM MM and WWW.
+- **Professional memberships:** Member of CCF and IEEE; member of the Artificial Intelligence Security Governance Professional Committee, Chinese Association of Automation; member of the Cyberspace Security and Governance Professional Committee, Systems Engineering Society of China.
