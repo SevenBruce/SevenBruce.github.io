@@ -25,9 +25,11 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 陈渝文，副教授，北京工业大学网络空间安全学院。2019 年博士毕业于马德里理工大学，导师为 José Fernán Martínez。主要研究方向包括物联网安全与隐私保护、人工智能安全、联邦学习、模型反演与梯度反演，近期工作也涵盖数据追踪溯源、语义指纹和图像隐私保护等方向。主持国家自然科学基金青年项目、北京市教委科技计划面上项目等科研项目。
 
 
-# 🔥🔥🔥 News
-- *2026.05*: &nbsp;🎓 **Prospective students are welcome.** I am looking for motivated Master students and undergraduate students interested in IoT security, AI security, federated learning, privacy protection, model inversion, and gradient inversion. I usually have around 2 Master openings each year. Please feel free to contact me by email with your CV and transcript.
-- *2026.05*: &nbsp;🎓 **欢迎加入课题组。** 欢迎对物联网安全、人工智能安全、联邦学习、隐私保护、模型反演和梯度反演感兴趣的硕士研究生、本科生联系我。每年通常有约 2 个硕士招生名额，欢迎通过邮件联系，并附简历和成绩单。
+<span class='anchor' id='openings'></span>
+
+# 📣 Openings 招生
+- *Ongoing*: &nbsp;🎓 **Prospective students are welcome.** I am looking for motivated Master students and undergraduate students interested in IoT security, AI security, federated learning, privacy protection, model inversion, and gradient inversion. I usually have around 2 Master openings each year. Please feel free to contact me by email with your CV and transcript.
+- *长期有效*: &nbsp;🎓 **欢迎加入课题组。** 欢迎对物联网安全、人工智能安全、联邦学习、隐私保护、模型反演和梯度反演感兴趣的硕士研究生、本科生联系我。每年通常有约 2 个硕士招生名额，欢迎通过邮件联系，并附简历和成绩单。
 
 
 # 📚 Teaching
@@ -38,6 +40,8 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 
 {% include publications.md %}
 
+
+<span class='anchor' id='services'></span>
 
 # 🎖 Services
 
