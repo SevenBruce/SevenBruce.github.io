@@ -32,4 +32,20 @@
   <p class="publication-item"><span class="pub-venue">INFFUS</span><span class="pub-year-badge">2025</span> Fahad Sabah^, <strong>Yuwen Chen</strong>, Zhen Yang, Abdul Raheem, Muhammad Azam, Nadeem Ahmad, Raheem Sarwar, "<strong>FairDPFL-SCS: Fair Dynamic Personalized Federated Learning with strategic client selection for improved accuracy and fairness</strong>". In <em>Information Fusion</em>, 115:102756.</p>
 </div>
 
+<div class="publication-year">Before 2025</div>
+
+<div class="publication-list">
+  <p class="publication-item"><span class="pub-venue">NCA</span><span class="pub-year-badge">2024</span> Yunbo Huang^, <strong>Yuwen Chen*</strong>, José-Fernán Martínez-Ortega, Haiyang Yu, Zhen Yang, "<strong>Batch data recovery from gradients based on generative adversarial networks</strong>". In <em>Neural Computing and Applications</em>, 36(24):14661-14672.</p>
+
+  <p class="publication-item"><span class="pub-venue">IEEE IoTJ</span><span class="pub-year-badge">2023</span> <strong>Yuwen Chen</strong>, Shisong Yang^, José-Fernán Martínez-Ortega, Lourdes López-Santidrián, Zhen Yang, "<strong>A Resilient Group-Based Multisubset Data Aggregation Scheme for Smart Grid</strong>". In <em>IEEE Internet of Things Journal</em>, 10(15):13649-13661.</p>
+
+  <p class="publication-item"><span class="pub-venue">IJIS</span><span class="pub-year-badge">2023</span> Zhen Yang, Shisong Yang^, Yunbo Huang^, José-Fernán Martínez, Lourdes López-Santidrián, <strong>Yuwen Chen*</strong>, "<strong>AAIA: an efficient aggregation scheme against inverting attack for federated learning</strong>". In <em>International Journal of Information Security</em>, 22(4):919-930.</p>
+
+  <p class="publication-item"><span class="pub-venue">IEEE TGCN</span><span class="pub-year-badge">2023</span> Shisong Yang^, <strong>Yuwen Chen</strong>, Zhen Yang, Bowen Li, Huan Liu, "<strong>Fast Secure Aggregation With High Dropout Resilience for Federated Learning</strong>". In <em>IEEE Transactions on Green Communications and Networking</em>, 7(3):1501-1514.</p>
+
+  <p class="publication-item"><span class="pub-venue">IEEE IoTJ</span><span class="pub-year-badge">2021</span> <strong>Yuwen Chen*</strong>, José-Fernán Martínez-Ortega, Lourdes López-Santidrián, Haiyang Yu, Zhen Yang, "<strong>A Dynamic Membership Group-Based Multiple-Data Aggregation Scheme for Smart Grid</strong>". In <em>IEEE Internet of Things Journal</em>, 8(15):12360-12374.</p>
+
+  <p class="publication-item"><span class="pub-venue">IEEE SJ</span><span class="pub-year-badge">2020</span> <strong>Yuwen Chen*</strong>, José-Fernán Martínez-Ortega, Pedro Castillejo, Lourdes López-Santidrián, "<strong>An Elliptic Curve-Based Scalable Data Aggregation Scheme for Smart Grid</strong>". In <em>IEEE Systems Journal</em>, 14(2):2066-2077.</p>
+</div>
+
 [Full publication list on DBLP](https://dblp.org/pid/49/8346-2.html)
