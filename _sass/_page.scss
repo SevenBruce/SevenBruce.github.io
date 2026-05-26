@@ -152,6 +152,24 @@
     font-size: 1.05em;
   }
 
+  .visitor-map {
+    margin-top: 1em;
+
+    a {
+      display: inline-block;
+      max-width: 100%;
+      text-decoration: none;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border: 1px solid $border-color;
+      background: #fff;
+    }
+  }
+
   .publication-list {
     margin-bottom: 1em;
   }

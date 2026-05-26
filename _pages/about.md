@@ -49,4 +49,4 @@ Address: Room 233, Information Building, #100 Pingleyuan, Chaoyang District, Bei
 - **Conference service:** Program Committee Member for ACM MM 2026, AAAI 2026, and The Web Conference 2026; reviewer for ACM MM and WWW.
 - **Professional memberships:** Member of CCF and IEEE; member of the Artificial Intelligence Security Governance Professional Committee, Chinese Association of Automation; member of the Cyberspace Security and Governance Professional Committee, Systems Engineering Society of China.
 
-<p class="site-stats"><span class="site-stats__icon">🌐</span><span>Visitors <strong id="busuanzi_value_site_uv">-</strong></span><span>Views <strong id="busuanzi_value_site_pv">-</strong></span></p>
+{% include visitor-map.html %}
